@@ -1,4 +1,7 @@
 # ODmodel- data
+
+> **2026-08-31 更新：** `main` 分支已新增 100 个市级行政单元，每个目录使用 `nodes.csv + flow.pkl` 新 schema。完整字段、来源状态、实测统计和已知问题见 [DATASET_CARD_100_CITIES.md](DATASET_CARD_100_CITIES.md)。下文是历史 `New York/` 州级三 pickle 的旧说明，两套 schema 不应混用。
+
 # 一.纽约州普查区级空间交互数据集New York State
 
 ## 1. 数据集概览
